@@ -1,4 +1,4 @@
-# Resolução de Exercícios do BeeCrowd JS
+# Guelo queima
 ![Banner BeeCrowd Solutions](99-imgs/banner.png)
 
 ## Sobre
