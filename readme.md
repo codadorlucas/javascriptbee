@@ -5,7 +5,7 @@
 Este repositório contém soluções para exercícios do site [BeeCrowd](https://www.beecrowd.com.br/), focando na linguagem JavaScript. O objetivo é documentar o aprendizado e as práticas de desenvolvimento.
 
 ## Perfil do Autor
-Bruno Viana - [Perfil BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/120201)
+Lucas Nascimento - [Perfil BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/120201)
 
 ## Tecnologias Utilizadas
 - JavaScript
